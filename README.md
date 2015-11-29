@@ -26,12 +26,13 @@ de Github con el usuario que utilizas:
 Instrucciones: Siga los pasos que se le solicitan para poder
 subir los archivos de los proyectos.	
 
-1- Se supone que ya tienes acceso desde la terminal.	
-2- Ahora creas una carpeta con el nombre del proyecto.	
+1- Se supone que ya tienes acceso desde la terminal.		
+2- Ahora creas una carpeta con el nombre del proyecto.		
 3- Dentro de la carpeta creas el archivo README.md con el comando touch		
-4- Ahora teclea el comando git init	
-5- ahora que ya tenemos creado el archivo lo subimos con el comando git add README.md	
-6- Agregamos un comentario al archivo, con el comando	
+4- Ahora teclea el comando $ git init	 		
+5- ahora que ya tenemos creado el archivo lo subimos con el comando 		
+   $ git add README.md		
+6- Agregamos un comentario al archivo, con el comando		
    $ git commit -m "Comentario breve sobre el archivo"	
 7- Ahora colocamos la ruta donde esta ubicado nuestro proyecto con el comando:		
    $ git remote add origin git@github.com:smartdesignsv/guideGithub.git			
